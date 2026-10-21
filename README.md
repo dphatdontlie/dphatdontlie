@@ -3,17 +3,13 @@
 <h1>Hi 👋, I'm dphatdontlie</h1>
 <h3>A passionate developer from Hue Imperial City, Vietnam</h3>
 
-<img src="https://i.ibb.co/yB8xvS7v/1792339720677-9072039458928993700-9072039458928993700-530576f29eedc8b5fd88e8d03c7f28de.jpg" alt="dphatdontlie" width="150" height="150" />
-
 <p>I enjoy building applications and learning through personal projects.</p>
 
 <a href="https://www.facebook.com/dang.hapt1612">Facebook</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/dphatdontlie">GitHub</a>
 &nbsp;·&nbsp;
-<a href="https://huevivu.id.vn">HueViVu</a>
-
-<!-- Add your full LinkedIn profile link when available. -->
+<a href="www.linkedin.com/in/dphatdontlie">Linkedin</a>
 
 </div>
 
